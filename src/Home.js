@@ -11,7 +11,7 @@ export default function Home (){
         <Hero>
             <Banner title = " Luxirous" subtitle = "This is defintly">
                 <Link to = "/rooms" className = " btn-primary">
-                    Return Home
+                    Return Room
                 </Link>
             </Banner>
         </Hero>
